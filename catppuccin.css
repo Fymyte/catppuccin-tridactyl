@@ -45,7 +45,6 @@
 #command-line-holder {
     order: 1;
     border: 2px solid var(--peach);
-    border-radius: 20px;
     background: var(--tridactyl-bg);
     border-radius: 20px 20px 0px 0px;
 }
