@@ -3,8 +3,6 @@
     --currentline: #302D41;
     --fg: #d9e0ee;
     --comment: #575268;
-    --flamingo: #f2cdcd;
-    --mauve: #ddb6f2;
     --pink: #f5c2e7;
     --maroon: #e8a2af;
     --red: #f28fad;
@@ -46,7 +44,7 @@
 
 #command-line-holder {
     order: 1;
-    border: 2px solid var(--lavender);
+    border: 2px solid var(--peach);
     background: var(--tridactyl-bg);
     border-radius: 20px;
 }
@@ -180,7 +178,7 @@
     font-weight: bold;
 }
 #completions .focused td.title {
-  color: var(--pink);
+  color: var(--peach);
 }
 
 #completions .focused .url {
