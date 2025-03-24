@@ -45,15 +45,16 @@
 #command-line-holder {
     order: 1;
     border: 2px solid var(--peach);
-    background: var(--tridactyl-bg);
     border-radius: 20px;
+    background: var(--tridactyl-bg);
+    border-radius: 20px 20px 0px 0px;
 }
 
 #tridactyl-input {
     padding: 1rem;
     color: var(--tridactyl-fg);
     width: 80%;
-    border-radius: 20px;
+    border-radius: 20px 20px 0px 0px;
     font-size: 1.5rem;
     line-height: 1.5;
     background: var(--tridactyl-bg);
