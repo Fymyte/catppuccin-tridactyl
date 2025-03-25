@@ -44,7 +44,7 @@
     --tridactyl-hint-bg: none;
     --tridactyl-hint-outline: none;
 
-    --tridactyl-border-radius: 20px;
+    --tridactyl-border-radius: 15px;
 }
 
 
@@ -181,10 +181,10 @@
 }
 
 :root #cmdline_iframe {
-    position: fixed !important;
-    bottom: unset;
-    top: 25% !important;
-    left: 10% !important;
+    position: center !important;
+    /* bottom: unset; */
+    /* top: 25% !important; */
+    /* left: 10% !important; */
     z-index: 2147483647 !important;
     max-width: 300px;
     filter: drop-shadow(0px 0px 20px #000000) !important;
